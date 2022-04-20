@@ -1,3 +1,3 @@
 # Fundamentos
 
-Revisão de fundamentos do C# e .NET.
+Revisão de fundamentos do C# com .NET.
