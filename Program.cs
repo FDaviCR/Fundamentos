@@ -3,6 +3,10 @@
 namespace Fundamentos{
     class Program{
         static void Main(string[] args){
+            Soma();
+        }
+
+        static void Soma(){
             Console.Clear();
 
             Console.WriteLine("Primeiro valor: ");
@@ -13,7 +17,7 @@ namespace Fundamentos{
             
 
             float resultado = v1 + v2;
-            Console.WriteLine("Resultado: "+resultado);
+            Console.WriteLine($"Resultado: {resultado}");
         }
     }
 }
